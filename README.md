@@ -8,5 +8,6 @@ Modificacion de master seguro
 
 Modulo de yender:
 a+b=10
-COREANO
 
+COREANO
+Jesus Kahwati
